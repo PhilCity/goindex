@@ -1,4 +1,4 @@
-![GoIndex](https://raw.githubusercontent.com/PhilCity/goindex/master/themes/logo.png)  
+![GoIndex](https://cdn.jsdelivr.net/gh/PhilCity/goindex/themes/logo.png)  
   
 GoIndex  
 ====  
